@@ -23,7 +23,7 @@ Lifelong Learner, currently working as freelancer Mobile Development.
 <a href="https://twitter.com/mfachriadrianta">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/x/900C3F " />
 </a>
-<a href="https://www.instagram.com/@mfachriadrianta/">
+<a href="https://www.instagram.com/@mfachriadriantaa/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/900C3F" />
 </a>
 <a href="https://yours.com/">
